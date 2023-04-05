@@ -1,6 +1,5 @@
 # FlappyBird
 Simple game
-
 # Screenshot:
 
 ![FlappyBird(1)](https://user-images.githubusercontent.com/72343665/230183286-98e9e077-5536-49ee-b8bd-0c502d791c3a.png)
